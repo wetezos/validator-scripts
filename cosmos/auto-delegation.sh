@@ -161,5 +161,5 @@ do
     echo "Have a Cosmic day!"
 
 
-    sleep 300 
+    sleep 3600 
 done
