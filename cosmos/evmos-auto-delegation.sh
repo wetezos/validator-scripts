@@ -18,7 +18,7 @@ CLI_NAME='evmosd'
 ##############################################################################################################################################################
 
 CHAIN_ID="evmos_9001-1"                                     # Current chain id. Empty means auto-detect.
-NODE="http://127.0.0.1:45657"  # Either run a local full node or choose one you trust.
+NODE="http://127.0.0.1:26657"  # Either run a local full node or choose one you trust.
 GAS_PRICES=""                         # Gas prices to pay for transaction.
 GAS_ADJUSTMENT="1.30"                           # Adjustment for estimated gas
 GAS_FLAGS="--gas auto --gas-prices ${GAS_PRICES} --gas-adjustment ${GAS_ADJUSTMENT}"
