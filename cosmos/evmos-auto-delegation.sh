@@ -8,7 +8,7 @@ KEY=""                                  # This is the key you wish to use for si
 DENOM="aevmos"                           
 MINIMUM_DELEGATION_AMOUNT="500000000"    
 RESERVATION_AMOUNT="100000000"        
-VALIDATOR=""  
+VALIDATOR=""                            # Validator Operator Address
 CLI_NAME='evmosd'
 ##############################################################################################################################################################
 
