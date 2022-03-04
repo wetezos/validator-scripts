@@ -6,8 +6,8 @@
 
 KEY=""                                  # This is the key you wish to use for signing transactions, listed in first column of "${CLI_NAME} keys list".
 DENOM="aevmos"                           
-MINIMUM_DELEGATION_AMOUNT="2000"    
-RESERVATION_AMOUNT="200"        
+MINIMUM_DELEGATION_AMOUNT="500000000"    
+RESERVATION_AMOUNT="100000000"        
 VALIDATOR=""  
 CLI_NAME='evmosd'
 ##############################################################################################################################################################
